@@ -1,6 +1,15 @@
-title: Minimal theme
+title: <p align="center"> Prajyot Kaur </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/prajyot-kaur-25264b146/">LinkedIn</a> |
+  <a href="https://github.com/prajyotkaur">GitHub</a>
+  
+  <br>   
+  Currently a TM1/ Planning Analytics Developer trying to make my way in the Data Analytics Background.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
